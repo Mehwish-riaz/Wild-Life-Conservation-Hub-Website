@@ -34,18 +34,6 @@ https://wild-life-conservation-hub-website.vercel.app/
 
 ---
 
-## 📂 Project Structure
-
-```
-Wildlife-Conservation-Hub
-│
-├── index.html
-├── wildlifeStyle.css
-├── images/
-└── README.md
-
----
-
 
 ## 👩‍💻 Author
 
